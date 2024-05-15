@@ -1,0 +1,6 @@
+# Bỏ qua các thư mục và tệp không cần thiết
+node_modules
+.git
+.DS_Store
+*.log
+*.md
